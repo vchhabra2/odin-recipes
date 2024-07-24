@@ -1,0 +1,39 @@
+h1 {
+    color:hsl(0, 59%, 41%);
+    font-family:'Cambria', 'Cochin', serif;
+    background-color:rgb(215, 202, 192);
+}
+
+h3 {
+    background-color: #81dfc0;
+}
+p {
+    color: blue;
+}
+
+/* Img css height and width. The butter chicken img has hardcoded height and width  */
+.stImg {
+    height: auto;
+    width: auto;
+}
+#butter {
+    height: 400px;
+    width: 400px;
+}
+
+#bestFood {
+    font-size: 22px;
+    background-color: rgb(212, 126, 126);
+    color:aqua;
+}
+
+.trout {
+    background-color: violet;
+    font-weight: 800px;
+}
+
+.trout #bestFood {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200px;
+    font-size: 36px;
+}
